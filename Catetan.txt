@@ -1,0 +1,2 @@
+aplikasi ini menggunakan library faker bawaan dari Codeigniter4
+untuk menggunakan file env tinggal merubah env menjadi .env
